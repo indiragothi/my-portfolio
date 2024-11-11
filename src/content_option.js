@@ -133,7 +133,7 @@ const dataportfolio = [
   {
     tags: ["All", "HTML/CSS", "JavaScript", "React", "Node", "Express", "Socket.io", "Tailwindcss"],
     index: 2,
-    img: "https://lh3.googleusercontent.com/s0RoMpwd9kZ3yGDxdXthZ_azsq_8LjUoeP-qrfRj5P46QJ88rrwKaqpI5O-hAu_Jki4Ud6I2UY8IJaCeXmaZ-kyl=s120",
+    img: "https://raw.githubusercontent.com/indiragothi/my-portfolio/refs/heads/main/src/img/chat-cord.jpg",
     desctiption:
       "Built a real-time chat cord using node.js and socket.io with rooms",
     link: "https://github.com/indiragothi/RealTime-Chat_Cord",
@@ -141,7 +141,7 @@ const dataportfolio = [
   {
     tags: ["All", "HTML/CSS", "JavaScript", "React", "Node", "Express", "MongoDB", "Pusher", "Tailwindcss",],
     index: 2,
-    img: "https://play-lh.googleusercontent.com/KZTO1L6r8CzWlg2InJoU_ndRAuvYiaS-35MyYdDPeeVCPNVfM9SBY2qRGjvvADmDIR8",
+    img: "https://raw.githubusercontent.com/indiragothi/my-portfolio/refs/heads/main/src/img/pusher-poll.jpg",
     desctiption:
       "Built a simple RealTime Polling app using Node.js, Express.js, MongoDB and Pusher",
     link: "https://github.com/indiragothi/RealTime-PusherPoll-App",
@@ -149,7 +149,7 @@ const dataportfolio = [
   {
     tags: ["All", "HTML/CSS", "JavaScript", "React", "Tailwindcss"],
     index: 3,
-    img: "data:image/png;base64,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",
+    img: "https://raw.githubusercontent.com/indiragothi/my-portfolio/refs/heads/main/src/img/portfolio.jpg",
     desctiption: "My Personal Portfolio using React and Tailwindcss",
     link: "https://github.com/indiragothi/Personal-portfolio",
   },
