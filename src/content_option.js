@@ -117,7 +117,7 @@ const dataportfolio = [
   {
     tags: ["All", "HTML/CSS", "JavaScript", "React", "Node", "Express", "Tailwindcss", "Passport"],
     index: 1,
-    img: "https://drive.google.com/file/d/1UTjuHkrvsV3G_jsawpDUzh3M4u-Xmc42/view?usp=sharing",
+    img: "https://raw.githubusercontent.com/indiragothi/my-portfolio/refs/heads/main/repo-finder.jpg",
     desctiption:
       "Built a Repo Finder app with MERN and Passport for authentication, allowing user search and profile retrieval via the GitHub API.",
     link: "https://github-like-app.onrender.com/",
@@ -125,7 +125,7 @@ const dataportfolio = [
   {
     tags: ["All", "HTML/CSS", "JavaScript", "React", "Node", "Express", "MongoDB", "Socket.io", "Tailwindcss"],
     index: 2,
-    img: "https://lh3.googleusercontent.com/eWzWi1yjoPRI6Wnp19nmFNbZld9QMRn0KB4Rn3J7V4fqCaNnlch1JzwD6DQFfjMtqlt5OdpTjDxHmALWoaLhHxnUMA=s120",
+    img: "https://raw.githubusercontent.com/piyush-eon/mern-chat-app/refs/heads/master/screenshots/login.PNG",
     desctiption:
       "Built a simple RealTime-ChatApp using socket.io and MERN Stack",
     link: "https://github.com/indiragothi/RealTime-ChatApp",
@@ -153,43 +153,6 @@ const dataportfolio = [
     desctiption: "My Personal Portfolio using React and Tailwindcss",
     link: "https://github.com/indiragothi/Personal-portfolio",
   },
-  // {
-  //   tags: ["All", "React", "Node", "Sanity", "HTML/CSS", "JavaScript"],
-  //   index: 3,
-  //   img: "https://blog.alexdevero.com/wp-content/uploads/2015/10/masonry-gallery-example-e1512649711262.png",
-  //   desctiption: "Build a Pinterest Clone with React, and Sanity",
-  //   link: "https://social-mediaclone.netlify.app/",
-  // },
-  // {
-  //   tags: ["All", "React", "HTML/CSS", "JavaScript"],
-  //   index: 4,
-  //   img: "https://www.passionateinmarketing.com/wp-content/uploads/2022/01/Cred.jpg",
-  //   desctiption: "CRED UI Clone Sample",
-  //   link: "https://singular-kleicha-7a4227.netlify.app/",
-  // },
-  // {
-  //   tags: ["All", "React", "HTML/CSS", "JavaScript"],
-  //   index: 5,
-  //   img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVUAAACUCAMAAAAUEUq5AAAAP1BMVEUthcXfppPhSzLDNyY8qe5hve6l0+vi4uLcblUuhMcwis88qO44p/BFru18xu2i0u3F2+bhvrPfqZbdfWbgUTlQ/0w6AAABFklEQVR4nO3QyRGDMAAEMAfCmXDTf62U4P0yI5WgUuqmMn/rfv+lS6x9YNuHxPEJnNeYuJtEGwlSrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVq1atWqVatWrVp98eoD99Rf5jCojzMAAAAASUVORK5CYII=",
-  //   desctiption: "Color Palette Build with React",
-  //   link: "https://luci04.github.io/Color-Palette/",
-  // },
-  // {
-  //   tags: ["All", "React", "HTML/CSS", "JavaScript", "Node", "Express", "MongoDB"],
-  //   index: 6,
-  //   img: "https://i.ytimg.com/vi/Fva-ufjXmqQ/maxresdefault.jpg",
-  //   desctiption:
-  //     "Node server Developer Responsible for Consuming REST API",
-  //   link: "https://github.com/Luci04/Digital-Menu",
-  // },
-  // {
-  //   tags: ["All", "React", "HTML/CSS", "JavaScript"],
-  //   index: 6,
-  //   img: "https://github.com/Luci04/Sorting-Visualizer/raw/master/Sorting.gif",
-  //   desctiption:
-  //     "React Based Application Where You Can see what happen Over an Array when a Sorting Algo. is Applied",
-  //   link: "https://luci04.github.io/Sorting-Visualizer/",
-  // },
 ];
 
 const contactConfig = {
