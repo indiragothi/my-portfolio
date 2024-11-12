@@ -151,7 +151,7 @@ const dataportfolio = [
     index: 3,
     img: "https://raw.githubusercontent.com/indiragothi/my-portfolio/refs/heads/main/src/img/portfolio.jpg",
     desctiption: "My Personal Portfolio using React and Tailwindcss",
-    link: "https://github.com/indiragothi/Personal-portfolio",
+    link: "https://indira-portfolio.onrender.com/",
   },
 ];
 
