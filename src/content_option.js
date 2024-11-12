@@ -117,7 +117,7 @@ const dataportfolio = [
   {
     tags: ["All", "HTML/CSS", "JavaScript", "React", "Node", "Express", "Tailwindcss", "Passport"],
     index: 1,
-    img: "https://raw.githubusercontent.com/indiragothi/my-portfolio/refs/heads/main/repo-finder.jpg",
+    img: "https://raw.githubusercontent.com/indiragothi/my-portfolio/refs/heads/main/src/img/repo-finder.jpg",
     desctiption:
       "Built a Repo Finder app with MERN and Passport for authentication, allowing user search and profile retrieval via the GitHub API.",
     link: "https://github-like-app.onrender.com/",
