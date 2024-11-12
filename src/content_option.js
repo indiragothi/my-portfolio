@@ -168,6 +168,7 @@ const socialprofils = {
   github: "https://github.com/indiragothi",
   linkedin: "https://linkedin.com/in/indiragothi",
   twitter: "https://x.com/igsir_07",
+  portfolio: "https://indira-portfolio.onrender.com/",
 };
 export {
   meta,

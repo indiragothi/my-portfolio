@@ -8,6 +8,7 @@ import {
   FaTwitch,
   FaWhatsapp,
   FaMedium,
+  FaGlobe
 } from "react-icons/fa";
 import { socialprofils } from "../../content_option";
 
@@ -43,10 +44,10 @@ export const Socialicons = (params) => {
             </a>
           </li>
         )}
-        {socialprofils.youtube && (
+        {socialprofils.portfolio && (
           <li>
-            <a target="_blank" rel="noreferrer" href={socialprofils.youtube}>
-              <FaYoutube />
+            <a target="_blank" rel="noreferrer" href={socialprofils.portfolio}>
+              <FaGlobe />
             </a>
           </li>
         )}
@@ -54,6 +55,13 @@ export const Socialicons = (params) => {
           <li>
             <a target="_blank" rel="noreferrer" href={socialprofils.twitch}>
               <FaTwitch />
+            </a>
+          </li>
+        )}
+        {socialprofils.youtube && (
+          <li>
+            <a target="_blank" rel="noreferrer" href={socialprofils.youtube}>
+              <FaYoutube />
             </a>
           </li>
         )}
